@@ -12,7 +12,7 @@ const App = () => {
   return (
     <div>
         {/* Do not remove the main div */}
-        <p>Button Clicked {count} times</p>
+        <p>Button clicked {count} times</p>
         <button onClick={incrCount}>Click me</button>
 
     </div>
